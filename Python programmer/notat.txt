@@ -1,0 +1,5 @@
+-	Lagde en støy covarianse matrise
+-	Regnet ut en formel for det neste elementet i C_l rekka og brukte denne
+	til å finne alle resterende elementer når C_2 = 4 pi / 5 Q^2
+-	Lagde signal covarians matrise
+-	
